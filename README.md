@@ -6,3 +6,7 @@ You can join the beta now by sending an [email](mailto:archergsdev@gmail.com), s
 
 # Support
 If you need assistance, please send me an [email](mailto:archergsdev@gmail.com) or send me a DM on [Twitter](https://twitter.com/Archergs14).
+
+# Privacy Policy
+You can find UrbanWatch's privacy policy [here][1].
+[1]:{{ site.url }}/privacyPolicyUrbanWatch.rtf
