@@ -1,5 +1,5 @@
-## UrbanWatch is coming out very soon!
-UrbanWatch is coming out within the next 24 hours!!!
+# UrbanWatch is out now!
+UrbanWatch is out now! Download [here](https://itunes.apple.com/us/app/urbanwatch/id1453516543?ls=1&mt=8).
 
 # Urban Watch
 UrbanWatch is Urban Dictionary on your wrist. Search for words, view the Word of the Day, and even get the watch to pick a random word for you! Search is powered by watchOS's gesture typing system, as well as your voice, to ensure it is a quick and simple process. The layout is also very simple, meaning you can get to reading some great slang definitions in no time!
